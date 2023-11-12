@@ -1,0 +1,7 @@
+0 kasallangan paxta ekan
+1 sog'lom paxta ekan
+2 kasallangan jo'xori ekan
+3 sog'lom jo'xori ekan
+4 Bug'doy malla kasalga uchragan
+5 Bug'doy sog'lom
+6 Bug'doy sariq kasalga uchragan
