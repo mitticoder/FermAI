@@ -57,7 +57,7 @@ jupyter forecast.ipynb
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,ai,linux,tensorflow" />
+    <img src="https://skillicons.dev/icons?i=vscode,github,ai,linux,tensorflow,figma" />
     <img src="https://skillicons.dev/icons?i=python" /><br>
 </div>
 
