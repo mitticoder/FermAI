@@ -62,7 +62,12 @@ jupyter forecast.ipynb
 </div>
 
 <br/>
+
+<div align="center">
+  <a href="https://www.figma.com/file/r1Kzo9iEo88ZoxiZxt2a0K/Untitled?type=design&node-id=0%3A1&mode=design&t=DU7d7NtXxWd0e5Bp-1"><img src="https://raw.githubusercontent.com/mitticoder/FermAI/main/figma.png" width="3%" alt="Ultralytics GitHub"></a>
+  <img src="https://raw.githubusercontent.com/mitticoder/FermAI/main/figma.png" width="3%">
 <hr/>
+</div>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
