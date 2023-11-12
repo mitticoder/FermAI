@@ -1,5 +1,7 @@
 # FermAI
 
+<h3 align="center">Модель диагностики болезней растений.</h3>
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
@@ -8,7 +10,7 @@
 
 ![logo](logo.jpg)
 
-<h3 align="center">About</h3>
+<h3 align="center">Модель диагностики болезней растений.</h3>
 
 <br/>
 
