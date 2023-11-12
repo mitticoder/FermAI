@@ -6,11 +6,11 @@
 
 # Install 1
 >>> pip install tensorflow gradio
->>> python gr_sayt.py
+python gr_sayt.py
 >>> # Just opened your browser
 
 # Install 2
 >>> pip install telebot deep_translator tensorflow pillow
->>> python c-demo.py
+python c-demo.py
 >>> # Our bot nick = @FermAI_bot
 >>> # Thanks
