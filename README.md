@@ -5,12 +5,12 @@
 Второй вид — в виде бота, которому также отправляется изображение и приходит ответ.
 
 # Install 1
->>> pip install tensorflow gradio
-python gr_sayt.py
->>> # Just opened your browser
+>pip install tensorflow gradio
+>python gr_sayt.py
+> # Just opened your browser
 
 # Install 2
->>> pip install telebot deep_translator tensorflow pillow
+> pip install telebot deep_translator tensorflow pillow
 python c-demo.py
->>> # Our bot nick = @FermAI_bot
->>> # Thanks
+> # Our bot nick = @FermAI_bot
+> # Thanks
